@@ -1,0 +1,17 @@
+---
+title: Le Wagon - Middleman - Team
+---
+
+<div id="team">
+  <div class="team-content">
+    <ul class="list-inline text-center">
+      <% data.users.each do |user, user_info| %>
+        <li>
+          <img src="https://kitt.lewagon.com/placeholder/users/<%= user_info['github_nickname'] %>" class="img-circle">
+          <h3><%= user_info["name"].capitalize %></h3>
+        </li>
+      <% end %>
+    </ul>
+
+  </div>
+</div>

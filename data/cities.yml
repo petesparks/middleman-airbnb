@@ -1,0 +1,18 @@
+london:
+  name: "Le Wagon London"
+  description: "On Kingsland Road"
+paris:
+  name: "Le Wagon Paris"
+  description: "On Eiffel Road"
+berlin:
+  name: "Le Wagon Berlin"
+  description: "On Berlin Street"
+rio:
+  name: "Le Wagon Rio"
+  description: "On Rio Lane"
+bali:
+  name: "Le Wagon Bali"
+  description: "On the beach"
+sydney:
+  name: "Le Wagon Sydney"
+  description: "Next to the BBQ"
